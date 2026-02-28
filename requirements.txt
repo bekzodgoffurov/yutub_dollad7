@@ -1,5 +1,4 @@
 aiogram==3.7.0
-pydantic==2.10.6
-pydantic-core==2.27.2
+pydantic>=2.4.1,<2.8
 yt-dlp
 python-dotenv
